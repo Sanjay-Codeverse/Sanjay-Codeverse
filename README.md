@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png" width="100%">
+  <img src="./Banner%20for%20Github.png" width="100%">
 </p>
 
 <p align="center">
