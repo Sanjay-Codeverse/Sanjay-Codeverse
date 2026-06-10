@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sanjay 👋
 
 <!--
 **Sanjay-Codeverse/Sanjay-Codeverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Final Year B.E. Computer Science Engineering (AI & ML) Student
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, Software Development, and Problem Solving
+
+## 👨‍💻 About Me
+
+💻 Skilled in Java, Python, C, Git, and GitHub
+
+🚀 Currently building AI-powered solutions and exploring Full Stack Development
+
+🛠️ Interested in developing intelligent systems that solve real-world problems
+
+🌱 Continuously learning Data Structures & Algorithms, Web Technologies, and Modern AI Tools
+
+🎯 Seeking opportunities to grow as a Software Engineer and AI Developer
