@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-### About Me 👨‍💻
+## About Me 👨‍💻
 
 💻 Skilled in Java, Python, C, Git, and GitHub
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Certifications & Training 📜 
+## Certifications & Training 📜 
 
 🎓 Human-Computer Interaction — NPTEL (98%)
 
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Areas of Interest 🎯 
+## Areas of Interest 🎯 
 
 🤖 Artificial Intelligence & Machine Learning
 
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2>Profile Views 👀</h2>
+<h3>Profile Views 👁👁️ </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanjay-Codeverse&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
