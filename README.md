@@ -55,6 +55,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,python,c,mysql" />
 </p>
 
+
 ### Web Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -64,3 +65,29 @@ Here are some ideas to get you started:
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+## 📜 Certifications & Training
+
+🎓 Human-Computer Interaction — NPTEL (98%)
+
+☕ Programming Using Java — Infosys Springboard   
+
+🤖 Generative AI Fundamentals(LLMs, ethics, and real-world applications) — IBM  
+
+🧠 Artificial Intelligence Course — CodeVibez Learning Hub
+
+## 🎯 Areas of Interest
+
+🤖 Artificial Intelligence & Machine Learning
+
+🧠 Generative AI & Large Language Models (LLMs)
+
+💬 Natural Language Processing (NLP)
+
+🌐 Full Stack Development
+
+☕ Java Backend Development
+
+💻 Software Development
+
+☁️ Cloud Computing
