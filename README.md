@@ -66,6 +66,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+---
+
 ## 📜 Certifications & Training
 
 🎓 Human-Computer Interaction — NPTEL (98%)
@@ -75,6 +77,8 @@ Here are some ideas to get you started:
 🤖 Generative AI Fundamentals(LLMs, ethics, and real-world applications) — IBM  
 
 🧠 Artificial Intelligence Course — CodeVibez Learning Hub
+
+---
 
 ## 🎯 Areas of Interest
 
