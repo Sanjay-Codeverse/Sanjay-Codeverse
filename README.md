@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Software Development, and Problem Solving
 
-## About Me 👨‍💻
+### About Me 👨‍💻
 
 💻 Skilled in Java, Python, C, Git, and GitHub
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Tech Stack 🛠️
+### Tech Stack 🛠️
 
 ### Programming Languages
 <p>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Certifications & Training 📜 
+### Certifications & Training 📜 
 🎓 Human-Computer Interaction — NPTEL (98%)
 
 ☕ Programming Using Java — Infosys Springboard   
@@ -79,7 +79,8 @@ Here are some ideas to get you started:
 
 ---
 
-## Areas of Interest 🎯 
+### Areas of Interest 🎯 
+
 🤖 Artificial Intelligence & Machine Learning
 
 🧠 Generative AI & Large Language Models (LLMs)
@@ -104,7 +105,8 @@ Here are some ideas to get you started:
 
 ---
 
-## Connect with Me 🔗
+### Connect with Me 🔗
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-a-518521260" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
