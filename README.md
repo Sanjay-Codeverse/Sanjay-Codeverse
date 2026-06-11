@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Software Development, and Problem Solving
 
+---
+
 ### About Me 👨‍💻
 
 💻 Skilled in Java, Python, C, Git, and GitHub
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Tech Stack 🛠️
+## Tech Stack 🛠️
 
 ### Programming Languages
 <p>
@@ -69,6 +71,7 @@ Here are some ideas to get you started:
 ---
 
 ### Certifications & Training 📜 
+
 🎓 Human-Computer Interaction — NPTEL (98%)
 
 ☕ Programming Using Java — Infosys Springboard   
