@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Software Development, and Problem Solving
 
-## 👨‍💻 About Me
+## About Me 👨‍💻
 
 💻 Skilled in Java, Python, C, Git, and GitHub
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack 🛠️
 
 ### Programming Languages
 <p>
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📜 Certifications & Training
+## Certifications & Training 📜 
 
 🎓 Human-Computer Interaction — NPTEL (98%)
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest 🎯 
 
 🤖 Artificial Intelligence & Machine Learning
 
@@ -101,8 +101,18 @@ Here are some ideas to get you started:
 
 ---
 
-<h2>👀 Profile Views</h2>
+<h2>Profile Views 👀</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanjay-Codeverse&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
+---
+
+## Random Dev Quote ✍️
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+
