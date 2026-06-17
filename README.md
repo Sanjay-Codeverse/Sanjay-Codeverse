@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3>Profile Views 👁 </h3>
+<h3>Profile Views 👁</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanjay-Codeverse&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
