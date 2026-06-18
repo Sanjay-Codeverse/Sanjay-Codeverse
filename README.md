@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Connect with Me🔗
+### Connect with Me 🔗
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-a-518521260" target="_blank">
