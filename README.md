@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Areas of Interest🎯 
+## Areas of Interest 🎯 
 
 🤖 Artificial Intelligence & Machine Learning
 
